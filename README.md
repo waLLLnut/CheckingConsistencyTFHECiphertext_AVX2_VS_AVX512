@@ -128,6 +128,6 @@ Modifying internal crate visibility or analyzing raw LWE data should **never** b
 
 ---
 
-**Author:** Seunghwan Lee (waLLLnut / CCRL)  
+**Author:** Seunghwan Lee (waLLLnut / CCRL in Hanyang University)  
 **Environment:** Rust 1.75+, TFHE-rs ≥ 1.4.0  
 **License:** Research / Internal Use Only
