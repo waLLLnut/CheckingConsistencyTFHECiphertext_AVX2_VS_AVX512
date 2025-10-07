@@ -1,4 +1,5 @@
-# TFHE-CT-TEST
+# TFHE-rs Ciphertext differences when computing with AVX2 vs AVX512
+
 
 This project provides a minimal test environment for inspecting **Radix-2 ciphertext internals (A mask and b body)** using **TFHE-rs**.  
 It is intended for deterministic FHE debugging and ciphertext difference analysis between CPU and GPU backends.
